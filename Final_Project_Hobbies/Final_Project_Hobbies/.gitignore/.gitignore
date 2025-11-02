@@ -1,0 +1,39 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+.vscode/
+*.dbmdl
+*.pidb
+*.svclog
+
+# ASP.NET Core secrets
+secrets.json
+
+# Entity Framework
+Migrations/
+
+# Logs
+*.log
+
+# Node modules (if using frontend packages)
+node_modules/
+
+# Static assets cache
+wwwroot/lib/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
