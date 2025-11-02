@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\views\\people\\miles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\people\\miles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\views\\people\\raymond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\people\\raymond.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\views\\people\\joshua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\people\\joshua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|c:\\users\\joshr\\source\\repos\\it3047-final-project\\final_project_hobbies\\final_project_hobbies\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C5FF4A-604A-4BC0-A85F-5D1ADCD1423C}|Final_Project_Hobbies\\Final_Project_Hobbies.csproj|solutionrelative:final_project_hobbies\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Miles.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\People\\Miles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T12:21:58.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Raymond.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\People\\Raymond.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\People\\Raymond.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\People\\Raymond.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\People\\Raymond.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T12:21:21.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Joshua.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\People\\Joshua.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T12:19:59.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "Final_Project_Hobbies\\Controllers\\PeopleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:14:48.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T12:12:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Final_Project_Hobbies\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:10:52.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Final_Project_Hobbies\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:09:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JoshR\\source\\repos\\IT3047-Final-Project\\Final_Project_Hobbies\\Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Final_Project_Hobbies\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T12:08:35.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
